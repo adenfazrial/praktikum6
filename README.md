@@ -87,3 +87,4 @@ while True:
 Berikut Screenshot dan flowchart
 ![image1.png](Screenshot/LA1.png)
 ![image2.png](Screenshot/LA2.png)
+![image3.png](Screenshot/flow.jfif)
