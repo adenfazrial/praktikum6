@@ -85,6 +85,6 @@ while True:
     else:
         print("Pilih menu yang tersedia")
 Berikut Screenshot dan flowchart
-![image1.png](Screenshot/LA1.png)
-![image2.png](Screenshot/LA2.png)
+![image1.png](Screenshot/LA1.jpg)
+![image2.png](Screenshot/LA2.jpg)
 ![image3.png](Screenshot/flow.jfif)
